@@ -1,16 +1,32 @@
-# todo_app
+# Oauthers ToDo
 
-To do application
+Una aplicación para aprender las cosas basicas de flutter y ¿por qué no? Un poco más
 
-## Getting Started
+## Adjuntos
 
-This project is a starting point for a Flutter application.
+- Colores: 
+* Primary
+#333652
+* Accent
+#FAD02C
+* Backgrounds
+#E9EAEC
+* Text
+#90ADC6
 
-A few resources to get you started if this is your first Flutter project:
+## Interfaces
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+En este momento no he hecho mucho en cuanto a interfaces. pero lo que se me ocurre que podria quedar bien esta en figma. (No se nada de figma, tambien estoy aprendiendo)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Elementos a considerar en la creacion
+- menu
+- grupos de tareas
+    - icono del grupo
+    - titulo
+    - descripcion
+- tareas indepedientes
+  - tarea
+   - descripcion
+   - fecha y hora
+   - icono
